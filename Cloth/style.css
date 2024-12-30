@@ -1,0 +1,44 @@
+header.top {
+  font-family: fantasy;
+  font-style: italic;
+  font-size: 2em;
+  margin: 30px 20px 5px 20px;
+  border: 2px double black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Menu {
+  font-size: x-large;
+  font-family: serif;
+  font-style: normal;
+  border-bottom: ridge;
+  display: flex;
+  flex-direction: row;
+  column-gap: 100px;
+  justify-content: center;
+}
+.cardcontainer {
+  border-radius: 10px ;
+  display: flex;
+  flex-direction: row;
+  column-gap: 70px;
+  margin: 30px 20px 30px 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+span {
+  font-size: x-large;
+  justify-content: center;
+  display: flex;
+  font-style: oblique;
+}
+.card {
+  margin: 10px 10px 10px 10px;
+}
+.card {
+  border: 10px inset rosybrown;
+  margin: 10px 10px 10px 10px;
+}
+ 
